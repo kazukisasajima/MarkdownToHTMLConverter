@@ -24,11 +24,11 @@ python file_converter.py markdown sample.md index.html
 ## イメージ
 
 例えば、以下のようなイメージを、
-![マークダウンファイルの画像](https://github.com/kazukisasajima/MarkdownToHTMLConverter/issues/1#issue-2328972004)
+![マークダウンファイルの画像](<img width="377" alt="sample_md_file" src="https://github.com/kazukisasajima/MarkdownToHTMLConverter/assets/99520758/10a55970-7d37-4be3-a790-16927654afb2">)
 
 以下のような HTML ファイルに変換します。
-![HTMLファイルの画像](https://github.com/kazukisasajima/MarkdownToHTMLConverter/issues/1#issuecomment-2143335728)
+![HTMLファイルの画像](<img width="377" alt="sample_html_file" src="https://github.com/kazukisasajima/MarkdownToHTMLConverter/assets/99520758/93a30bd1-5843-45e8-ac58-ad572706c566">)
 
 変換した HTML をブラウザで表示すると、
-![HTMLをブラウザで表示させた画像](https://github.com/kazukisasajima/MarkdownToHTMLConverter/issues/1#issuecomment-2143335778)
+![HTMLをブラウザで表示させた画像](<img width="410" alt="sample_brouser_file" src="https://github.com/kazukisasajima/MarkdownToHTMLConverter/assets/99520758/c5ce365a-104d-4599-9a93-ff9debc4ed02">)
 のようになります。

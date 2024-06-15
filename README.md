@@ -9,8 +9,8 @@
 - スクリプトを実行するには[python-markdown](https://pypi.org/project/Markdown/)をインストールする必要があります。
 
 ```sh
-python pip install -r requirements.txt
-python pip install markdown
+pip install -r requirements.txt
+pip install markdown
 ```
 
 ## 実行方法
